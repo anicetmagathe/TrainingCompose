@@ -21,7 +21,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AndroidProjectTemplate"
+rootProject.name = "TrainingCompose"
 
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
